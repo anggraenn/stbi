@@ -1,2 +1,1 @@
-# stbi
-stbiuts
+# Tugas-STBI
